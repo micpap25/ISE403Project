@@ -1,0 +1,1 @@
+Yes, i see 5 commits including the one from the other branch and the merge commit all placed in the correct order.
